@@ -1,0 +1,316 @@
+﻿++Solution 'MiraProject' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:MiraProject.sln
+++DataAccess
+i:{00000000-0000-0000-0000-000000000000}:DataAccess
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\dataaccess\dataaccess.csproj
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\dataaccess\dataaccess.csproj
+++Dependencies
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>554
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>553
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>555
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>688
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:>552
+++Base
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\base\
+++BaseEntity.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\base\baseentity.cs
+++IBaseEntity.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\base\ibaseentity.cs
+++Context
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\context\
+++MiraDbContext.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\context\miradbcontext.cs
+++MiraDbContextOnModelCreating.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\context\miradbcontextonmodelcreating.cs
+++Entities
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\entities\
+++Module.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\entities\module.cs
+++User.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\entities\user.cs
+++Migrations
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\
+++20220326160208_InitialData.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220326160208_initialdata.cs
+++20220326163857_InitialData2.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220326163857_initialdata2.cs
+++20220326200513_changeUser.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220326200513_changeuser.cs
+++20220327174052_change.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220327174052_change.cs
+++20220327174130_change2.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220327174130_change2.cs
+++20220329173136_ModuleAdded.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220329173136_moduleadded.cs
+++MiraDbContextModelSnapshot.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\miradbcontextmodelsnapshot.cs
+++Analyzers
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:analyzers
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:analyzers
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:analyzers
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:analyzers
+++Frameworks
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:frameworks
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:frameworks
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:frameworks
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:frameworks
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:frameworks
+++Packages
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:packages
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:packages
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:packages
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:packages
+++20220326160208_InitialData.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220326160208_initialdata.designer.cs
+++20220326163857_InitialData2.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220326163857_initialdata2.designer.cs
+++20220326200513_changeUser.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220326200513_changeuser.designer.cs
+++20220327174052_change.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220327174052_change.designer.cs
+++20220327174130_change2.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220327174130_change2.designer.cs
+++20220329173136_ModuleAdded.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\migrations\20220329173136_moduleadded.designer.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\microsoft.netcore.app
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\microsoft.netcore.app
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\microsoft.netcore.app
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\microsoft.netcore.app
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miraproject\miraproject\repository\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>743
+++Microsoft.EntityFrameworkCore.Design (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>746
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>701
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>744
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>747
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>745
+++Shared
+i:{00000000-0000-0000-0000-000000000000}:Shared
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\shared\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\shared\shared.csproj
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\shared\shared.csproj
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\shared\
+++Authorization
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\authorization\
+++Dto
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\
+++AuthenticateRequestDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\authenticaterequestdto.cs
+++AuthenticateResponseDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\authenticateresponsedto.cs
+++BaseDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\basedto.cs
+++ErrorDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\errordto.cs
+++ModuleDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\moduledto.cs
+++RegisterRequestDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\registerrequestdto.cs
+++UpdatePasswordDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\updatepassworddto.cs
+++UserDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\dto\userdto.cs
+++Helpers
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\helpers\
+++Operations
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\operations\
+++EnumOperations
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\operations\enumoperations\
+++EnumOperation.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\operations\enumoperations\enumoperation.cs
+++Projects
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:projects
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:projects
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:projects
+++AllowAnonymousAttribute.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\authorization\allowanonymousattribute.cs
+++AuthorizeAttribute.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\authorization\authorizeattribute.cs
+++AppException.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\helpers\appexception.cs
+++AppSettings.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\helpers\appsettings.cs
+++ErrorHandlerMiddleware.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\helpers\errorhandlermiddleware.cs
+++Response.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miraproject\miraproject\shared\helpers\response.cs
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>737
+++Microsoft.AspNetCore.Mvc.Abstractions (2.2.0)
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>734
+++Microsoft.AspNetCore.Mvc.Formatters.Json (2.2.0)
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>735
+++Business
+i:{00000000-0000-0000-0000-000000000000}:Business
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\business\business.csproj
+++Automapper
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\automapper\
+++AutomapperProfile.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\automapper\automapperprofile.cs
+++BusinessRules
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\
+++Abstract
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\abstract\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\genericbusinessrules\abstract\
+++AuthBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\abstract\authbusinessrules.cs
+++UserBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\abstract\userbusinessrules.cs
+++GenericBusinessRules
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\genericbusinessrules\
+++GenericBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\genericbusinessrules\abstract\genericbusinessrules.cs
+++Interface
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\genericbusinessrules\interface\
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miraproject\miraproject\repository\interface\
+++IGenericBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\genericbusinessrules\interface\igenericbusinessrules.cs
+++Interfaces
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\interfaces\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\interfaces\
+++IAuthBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\interfaces\iauthbusinessrules.cs
+++IUserBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\businessrules\interfaces\iuserbusinessrules.cs
+++Configuration
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\configuration\
+++DI_Helper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\configuration\di_helper.cs
+++Helper
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\helper\
+++Asbtract
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\asbtract\
+++Enums
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\shared\enums\
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\shared\enums\
+++EntityDtoMap.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\shared\enums\entitydtomap.cs
+++JwtMiddleware.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\asbtract\jwtmiddleware.cs
+++JwtUtils.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\asbtract\jwtutils.cs
+++PasswordHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\asbtract\passwordhelper.cs
+++UnitOfWorkHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\asbtract\unitofworkhelper.cs
+++UserOperationHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\asbtract\useroperationhelper.cs
+++IJwtUtils.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\interfaces\ijwtutils.cs
+++IUnitOfWork.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\interfaces\iunitofwork.cs
+++IUserOperationHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\helper\interfaces\iuseroperationhelper.cs
+++AutoMapper (11.0.1)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>727
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>726
+++MiraProject
+i:{00000000-0000-0000-0000-000000000000}:MiraProject
+++Connected Services 
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>689
+++Properties
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\properties\
+++Controllers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\controllers\
+++appsettings.json
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\appsettings.json
+++Program.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\program.cs
+++WeatherForecast.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\weatherforecast.cs
+++No service dependencies discovered
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>690
+++launchSettings.json
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\properties\launchsettings.json
+++AuthController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\controllers\authcontroller.cs
+++UserController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\controllers\usercontroller.cs
+++WeatherForecastController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\controllers\weatherforecastcontroller.cs
+++CustomBaseController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\helper\custombasecontroller.cs
+++appsettings.Development.json
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miraproject\miraproject\miraproject\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.3)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>705
+++Microsoft.IdentityModel.Tokens (6.16.0)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>706
+++Swashbuckle.AspNetCore (6.2.3)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>703
+++Swashbuckle.AspNetCore.Filters (7.0.2)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>704
+++System.IdentityModel.Tokens.Jwt (6.16.0)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>702
+++Repository
+i:{00000000-0000-0000-0000-000000000000}:Repository
+++Abstarct
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miraproject\miraproject\repository\abstarct\
+++IGenericRepository.cs
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miraproject\miraproject\repository\interface\igenericrepository.cs
+++NewFolder
+++Enum
+++DataAccessLayerEnums.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miraproject\miraproject\dataaccess\shared\enums\dataaccesslayerenums.cs
+++Ef_Function
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\shared\ef_function\
+++EF_DynamicExpressions.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\shared\ef_function\ef_dynamicexpressions.cs
+++SubstExpressionVisitor.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miraproject\miraproject\business\shared\ef_function\substexpressionvisitor.cs
+++System.Linq.Async (6.0.1)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>834
+++System.Linq.Async.Queryable (6.0.1)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>835

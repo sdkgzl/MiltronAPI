@@ -1,0 +1,312 @@
+﻿++Solution 'Miltron' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:Miltron.sln
+++MiltronProject
+i:{00000000-0000-0000-0000-000000000000}:MiltronProject
+++Connected Services 
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1319
+++Dependencies
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1318
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>650
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>649
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>878
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:>723
+++Properties
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\properties\
+++launchSettings.json
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\properties\launchsettings.json
+++Controllers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\controllers\
+++AuthController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\controllers\authcontroller.cs
+++UserController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\controllers\usercontroller.cs
+++WeatherForecastController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\controllers\weatherforecastcontroller.cs
+++Helper
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\helper\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\
+++appsettings.json
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\appsettings.json
+++Program.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\program.cs
+++README.md
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\readme.md
+++WeatherForecast.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\weatherforecast.cs
+++No service dependencies discovered
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1320
+++Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:analyzers
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:analyzers
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:analyzers
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:analyzers
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:analyzers
+++Frameworks
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:frameworks
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:frameworks
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:frameworks
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:frameworks
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:frameworks
+++Packages
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:packages
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:packages
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:packages
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:packages
+++Projects
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:projects
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:projects
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:projects
+++CustomBaseController.cs
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\helper\custombasecontroller.cs
+++appsettings.Development.json
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\miraproject\microsoft.netcore.app
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\microsoft.netcore.app
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\microsoft.netcore.app
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\microsoft.netcore.app
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miltronproject\miltronapi\repository\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.3)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1387
+++Microsoft.EntityFrameworkCore.Design (6.0.3)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1381
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>1382
+++Microsoft.IdentityModel.Tokens (6.16.0)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1388
+++Swashbuckle.AspNetCore (6.2.3)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1385
+++Swashbuckle.AspNetCore.Filters (7.0.2)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1386
+++System.IdentityModel.Tokens.Jwt (6.16.0)
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:>1383
+++Business
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\business\bin\debug\net6.0\business.dll
+i:{00000000-0000-0000-0000-000000000000}:Business
+++Shared
+i:{5356cd2e-fdf2-4c62-bd1c-c2ac3b5e2fbb}:c:\users\user\desktop\miltronproject\miltronapi\shared\bin\debug\net6.0\shared.dll
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\shared\
+i:{00000000-0000-0000-0000-000000000000}:Shared
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\shared\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\shared\bin\debug\net6.0\shared.dll
+++DataAccess
+i:{00000000-0000-0000-0000-000000000000}:DataAccess
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\bin\debug\net6.0\dataaccess.dll
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\bin\debug\net6.0\dataaccess.dll
+++Base
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\base\
+++BaseEntity.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\base\baseentity.cs
+++IBaseEntity.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\base\ibaseentity.cs
+++Context
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\context\
+++MiltronDbContext.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\context\miltrondbcontext.cs
+++MiltronDbContextOnModelCreating.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\context\miltrondbcontextonmodelcreating.cs
+++Entities
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\entities\
+++Migrations
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\migrations\
+++User.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\entities\user.cs
+++20220509172952_MiltronInitialized.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\migrations\20220509172952_miltroninitialized.cs
+++MiltronDbContextModelSnapshot.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\migrations\miltrondbcontextmodelsnapshot.cs
+++Enums
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\shared\enums\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\shared\enums\
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>1370
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>1374
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>1384
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:>1378
+++20220509172952_MiltronInitialized.Designer.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\migrations\20220509172952_miltroninitialized.designer.cs
+++DataAccessLayerEnums.cs
+i:{1f3f8822-9982-4e6e-b1fa-59f0e38ac99f}:c:\users\user\desktop\miltronproject\miltronapi\dataaccess\shared\enums\dataaccesslayerenums.cs
+++Authorization
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\authorization\
+++Dto
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\
+++AuthenticateRequestDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\authenticaterequestdto.cs
+++AuthenticateResponseDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\authenticateresponsedto.cs
+++BaseDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\basedto.cs
+++ErrorDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\errordto.cs
+++PayloadDto.cs
+++RegisterRequestDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\registerrequestdto.cs
+++RocketDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\rocketdto.cs
+++TelemetryDto.cs
+++TimestampsDto.cs
+++UpdatePasswordDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\updatepassworddto.cs
+++UserDto.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\userdto.cs
+++Helpers
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\helpers\
+++Operations
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\operations\
+++AllowAnonymousAttribute.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\authorization\allowanonymousattribute.cs
+++AuthorizeAttribute.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\authorization\authorizeattribute.cs
+++AppException.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\helpers\appexception.cs
+++AppSettings.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\helpers\appsettings.cs
+++ErrorHandlerMiddleware.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\helpers\errorhandlermiddleware.cs
+++Response.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\helpers\response.cs
+++EnumOperations
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\operations\enumoperations\
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>1379
+++Microsoft.AspNetCore.Mvc.Abstractions (2.2.0)
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>1372
+++Microsoft.AspNetCore.Mvc.Formatters.Json (2.2.0)
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:>1375
+++EnumOperation.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\operations\enumoperations\enumoperation.cs
+++Automapper
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\automapper\
+++Profiles
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\automapper\profiles\
+++AutomapperProfile.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\automapper\automapperprofile.cs
+++BusinessRules
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\
+++Abstract
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\abstract\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\genericbusinessrules\abstract\
+++GenericBusinessRules
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\genericbusinessrules\
+++Interfaces
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\interfaces\
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\interfaces\
+++Configuration
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\configuration\
+++DI_Helper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\configuration\di_helper.cs
+++Extensions
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\extensions\
+++Asbtract
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\asbtract\
+++JwtMiddleware.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\asbtract\jwtmiddleware.cs
+++JwtUtils.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\asbtract\jwtutils.cs
+++PasswordHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\asbtract\passwordhelper.cs
+++UnitOfWorkHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\asbtract\unitofworkhelper.cs
+++UserOperationHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\asbtract\useroperationhelper.cs
+++Ef_Function
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\shared\ef_function\
+++ModuleProfile.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\automapper\profiles\moduleprofile.cs
+++AuthBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\abstract\authbusinessrules.cs
+++UserBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\abstract\userbusinessrules.cs
+++Interface
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\genericbusinessrules\interface\
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miltronproject\miltronapi\repository\interface\
+++IAuthBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\interfaces\iauthbusinessrules.cs
+++IUserBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\interfaces\iuserbusinessrules.cs
+++ClaimExtensions.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\extensions\claimextensions.cs
+++IJwtUtils.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\interfaces\ijwtutils.cs
+++IUnitOfWork.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\interfaces\iunitofwork.cs
+++IUserOperationHelper.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\helper\interfaces\iuseroperationhelper.cs
+++EF_DynamicExpressions.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\shared\ef_function\ef_dynamicexpressions.cs
+++SubstExpressionVisitor.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\shared\ef_function\substexpressionvisitor.cs
+++EntityDtoMap.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\shared\enums\entitydtomap.cs
+++AutoMapper (11.0.1)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>1380
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>1376
+++System.Linq.Async (6.0.1)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>1369
+++System.Linq.Async.Queryable (6.0.1)
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:>1373
+++GenericBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\genericbusinessrules\abstract\genericbusinessrules.cs
+++IGenericBusinessRules.cs
+i:{99888c66-e74f-4e95-9a20-864ae988cddd}:c:\users\user\desktop\miltronproject\miltronapi\business\businessrules\genericbusinessrules\interface\igenericbusinessrules.cs
+++Repository
+i:{00000000-0000-0000-0000-000000000000}:Repository
+++Abstarct
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miltronproject\miltronapi\repository\abstarct\
+++IGenericRepository.cs
+i:{c95ad62a-be90-4595-a44b-cd9b3cfb2f61}:c:\users\user\desktop\miltronproject\miltronapi\repository\interface\igenericrepository.cs
+++payload.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\payload.cs
+++telemetry.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\telemetry.cs
+++imestamps.cs
+++timestamps.cs
+i:{5f723584-5585-495e-afbe-9a6837d235e5}:c:\users\user\desktop\miltronproject\miltronapi\shared\dto\timestamps.cs
